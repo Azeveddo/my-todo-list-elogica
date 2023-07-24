@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/my-todo-list-elogica",
     "ignore": [
       "firebase.json",
       "**/.*",
