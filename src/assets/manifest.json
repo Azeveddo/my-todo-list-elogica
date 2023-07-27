@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "id": "/",
+  "short_name": "To-Do-List",
+  "description": "A colorful productivity tool",
+  "name": "My-To-Do-List-Elogica",
+  "icons": [
+    {
+      "src": "/my-todo-list-elogica/assets/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/my-todo-list-elogica/",
+  "display": "standalone",
+  "theme_color": "#00BCD4",
+  "background_color": "#333"
+}
