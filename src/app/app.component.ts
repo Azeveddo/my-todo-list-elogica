@@ -11,7 +11,7 @@ import { MatDialog } from '@angular/material/dialog';
 // If modifying these scopes, delete token.json.
 const SCOPES = 'https://www.googleapis.com/auth/tasks';
 
-const CLIENT_ID = '856992248849-81v5nqhhk3bsas8bp6ctm4bcmc1nh4fm.apps.googleusercontent.com'
+const CLIENT_ID = '856992248849-hembmukdbv9rgpkdrvdsvlq73fggvqcs.apps.googleusercontent.com'
 declare var gapi: any;
 declare var google: any;
 
